@@ -1,32 +1,349 @@
 {
-  "..\\components\\Index\\Ad.js -> react-modal-video": {
-    "id": "./node_modules/react-modal-video/lib/index.js",
+  "..\\components\\About\\AboutUsContentThree.js -> react-modal-video": {
+    "id": 1239,
     "files": [
-      "static/chunks/node_modules_react-modal-video_lib_index_js.js"
+      "static/chunks/129-17d4765179a64ff49f90.js",
+      "static/chunks/1239.cd1931d93744a1d0e153.js"
+    ]
+  },
+  "..\\components\\About\\AboutUsContentTwo.js -> react-modal-video": {
+    "id": 1239,
+    "files": [
+      "static/chunks/129-17d4765179a64ff49f90.js",
+      "static/chunks/1239.cd1931d93744a1d0e153.js"
+    ]
+  },
+  "..\\components\\About\\FeedbackSliderWithFunFacts.js -> react-owl-carousel3": {
+    "id": 8694,
+    "files": [
+      "static/chunks/617777a1.ee24fdb7eeafeb4cda5d.js"
+    ]
+  },
+  "..\\components\\About\\IntoVideo.js -> react-modal-video": {
+    "id": 1239,
+    "files": [
+      "static/chunks/129-17d4765179a64ff49f90.js",
+      "static/chunks/1239.cd1931d93744a1d0e153.js"
+    ]
+  },
+  "..\\components\\Common\\CourseAdvisor.js -> react-owl-carousel3": {
+    "id": 8694,
+    "files": [
+      "static/chunks/617777a1.ee24fdb7eeafeb4cda5d.js"
+    ]
+  },
+  "..\\components\\Common\\CoursesAreaStyleTwo.js -> react-owl-carousel3": {
+    "id": 8694,
+    "files": [
+      "static/chunks/617777a1.ee24fdb7eeafeb4cda5d.js"
+    ]
+  },
+  "..\\components\\Common\\Partner.js -> react-owl-carousel3": {
+    "id": 8694,
+    "files": [
+      "static/chunks/617777a1.ee24fdb7eeafeb4cda5d.js"
+    ]
+  },
+  "..\\components\\Common\\PartnerStyleTwo.js -> react-owl-carousel3": {
+    "id": 8694,
+    "files": [
+      "static/chunks/617777a1.ee24fdb7eeafeb4cda5d.js"
+    ]
+  },
+  "..\\components\\Common\\Testimonials.js -> react-owl-carousel3": {
+    "id": 8694,
+    "files": [
+      "static/chunks/617777a1.ee24fdb7eeafeb4cda5d.js"
+    ]
+  },
+  "..\\components\\DistanceLearning\\CourseAdvisor.js -> react-owl-carousel3": {
+    "id": 8694,
+    "files": [
+      "static/chunks/617777a1.ee24fdb7eeafeb4cda5d.js"
+    ]
+  },
+  "..\\components\\DistanceLearning\\FeedbackSlider.js -> react-owl-carousel3": {
+    "id": 8694,
+    "files": [
+      "static/chunks/617777a1.ee24fdb7eeafeb4cda5d.js"
+    ]
+  },
+  "..\\components\\DistanceLearning\\LatestNews.js -> react-owl-carousel3": {
+    "id": 8694,
+    "files": [
+      "static/chunks/617777a1.ee24fdb7eeafeb4cda5d.js"
+    ]
+  },
+  "..\\components\\DistanceLearning\\PopularCourses.js -> react-owl-carousel3": {
+    "id": 8694,
+    "files": [
+      "static/chunks/617777a1.ee24fdb7eeafeb4cda5d.js"
+    ]
+  },
+  "..\\components\\HealthCoaching\\Feedback.js -> react-owl-carousel3": {
+    "id": 8694,
+    "files": [
+      "static/chunks/617777a1.ee24fdb7eeafeb4cda5d.js"
+    ]
+  },
+  "..\\components\\Index\\Ad.js -> react-modal-video": {
+    "id": 1239,
+    "files": [
+      "static/chunks/129-17d4765179a64ff49f90.js",
+      "static/chunks/1239.cd1931d93744a1d0e153.js"
     ]
   },
   "..\\components\\Index\\Partner.js -> react-owl-carousel3": {
-    "id": "./node_modules/react-owl-carousel3/lib/OwlCarousel.js",
+    "id": 8694,
     "files": [
-      "static/chunks/node_modules_react-owl-carousel3_lib_OwlCarousel_js.js"
+      "static/chunks/617777a1.ee24fdb7eeafeb4cda5d.js"
     ]
   },
   "..\\components\\Index\\Slider.js -> react-owl-carousel3": {
-    "id": "./node_modules/react-owl-carousel3/lib/OwlCarousel.js",
+    "id": 8694,
     "files": [
-      "static/chunks/node_modules_react-owl-carousel3_lib_OwlCarousel_js.js"
+      "static/chunks/617777a1.ee24fdb7eeafeb4cda5d.js"
     ]
   },
   "..\\components\\Index\\Testimonials.js -> react-owl-carousel3": {
-    "id": "./node_modules/react-owl-carousel3/lib/OwlCarousel.js",
+    "id": 8694,
     "files": [
-      "static/chunks/node_modules_react-owl-carousel3_lib_OwlCarousel_js.js"
+      "static/chunks/617777a1.ee24fdb7eeafeb4cda5d.js"
     ]
   },
-  "..\\node_modules\\next\\dist\\client\\next-dev.js -> ./dev/noop": {
-    "id": "./node_modules/next/dist/client/dev/noop.js",
+  "..\\components\\Kindergaten\\FeedbackSlider.js -> react-owl-carousel3": {
+    "id": 8694,
     "files": [
-      "static/chunks/node_modules_next_dist_client_dev_noop_js.js"
+      "static/chunks/617777a1.ee24fdb7eeafeb4cda5d.js"
+    ]
+  },
+  "..\\components\\Kindergaten\\OurServices.js -> react-owl-carousel3": {
+    "id": 8694,
+    "files": [
+      "static/chunks/617777a1.ee24fdb7eeafeb4cda5d.js"
+    ]
+  },
+  "..\\components\\Kindergaten\\TopSellingCourses.js -> react-owl-carousel3": {
+    "id": 8694,
+    "files": [
+      "static/chunks/617777a1.ee24fdb7eeafeb4cda5d.js"
+    ]
+  },
+  "..\\components\\LanguageSchool\\FeedbackSlider.js -> react-owl-carousel3": {
+    "id": 8694,
+    "files": [
+      "static/chunks/617777a1.ee24fdb7eeafeb4cda5d.js"
+    ]
+  },
+  "..\\components\\LanguageSchool\\Partner.js -> react-owl-carousel3": {
+    "id": 8694,
+    "files": [
+      "static/chunks/617777a1.ee24fdb7eeafeb4cda5d.js"
+    ]
+  },
+  "..\\components\\ModernSchooling\\FeedbackSlider.js -> react-owl-carousel3": {
+    "id": 8694,
+    "files": [
+      "static/chunks/617777a1.ee24fdb7eeafeb4cda5d.js"
+    ]
+  },
+  "..\\components\\ModernSchooling\\Partner.js -> react-owl-carousel3": {
+    "id": 8694,
+    "files": [
+      "static/chunks/617777a1.ee24fdb7eeafeb4cda5d.js"
+    ]
+  },
+  "..\\components\\OnlineTrainingSchool\\AboutArea.js -> react-modal-video": {
+    "id": 1239,
+    "files": [
+      "static/chunks/129-17d4765179a64ff49f90.js",
+      "static/chunks/1239.cd1931d93744a1d0e153.js"
+    ]
+  },
+  "..\\components\\OnlineTrainingSchool\\CourseAdvisor.js -> react-owl-carousel3": {
+    "id": 8694,
+    "files": [
+      "static/chunks/617777a1.ee24fdb7eeafeb4cda5d.js"
+    ]
+  },
+  "..\\components\\OnlineTrainingSchool\\FeedbackSlider.js -> react-owl-carousel3": {
+    "id": 8694,
+    "files": [
+      "static/chunks/617777a1.ee24fdb7eeafeb4cda5d.js"
+    ]
+  },
+  "..\\components\\SingleCourses\\CoursesDetailsSidebar.js -> react-modal-video": {
+    "id": 1239,
+    "files": [
+      "static/chunks/129-17d4765179a64ff49f90.js",
+      "static/chunks/1239.cd1931d93744a1d0e153.js"
+    ]
+  },
+  "..\\components\\SingleCourses\\StaticCoursesDetailsSidebar.js -> react-modal-video": {
+    "id": 1239,
+    "files": [
+      "static/chunks/129-17d4765179a64ff49f90.js",
+      "static/chunks/1239.cd1931d93744a1d0e153.js"
+    ]
+  },
+  "..\\components\\SingleEvents\\EventParticipants.js -> react-owl-carousel3": {
+    "id": 8694,
+    "files": [
+      "static/chunks/617777a1.ee24fdb7eeafeb4cda5d.js"
+    ]
+  },
+  "..\\components\\SuccessStory\\IntroVideo.js -> react-modal-video": {
+    "id": 1239,
+    "files": [
+      "static/chunks/129-17d4765179a64ff49f90.js",
+      "static/chunks/1239.cd1931d93744a1d0e153.js"
+    ]
+  },
+  "..\\components\\VendorCertificationTraining\\AboutArea.js -> react-modal-video": {
+    "id": 1239,
+    "files": [
+      "static/chunks/129-17d4765179a64ff49f90.js",
+      "static/chunks/1239.cd1931d93744a1d0e153.js"
+    ]
+  },
+  "..\\components\\VendorCertificationTraining\\CourseAdvisor.js -> react-owl-carousel3": {
+    "id": 8694,
+    "files": [
+      "static/chunks/617777a1.ee24fdb7eeafeb4cda5d.js"
+    ]
+  },
+  "..\\components\\VendorCertificationTraining\\Partner.js -> react-owl-carousel3": {
+    "id": 8694,
+    "files": [
+      "static/chunks/617777a1.ee24fdb7eeafeb4cda5d.js"
+    ]
+  },
+  "..\\components\\Video10.js -> react-modal-video": {
+    "id": 1239,
+    "files": [
+      "static/chunks/129-17d4765179a64ff49f90.js",
+      "static/chunks/1239.cd1931d93744a1d0e153.js"
+    ]
+  },
+  "..\\components\\Video11.js -> react-modal-video": {
+    "id": 1239,
+    "files": [
+      "static/chunks/129-17d4765179a64ff49f90.js",
+      "static/chunks/1239.cd1931d93744a1d0e153.js"
+    ]
+  },
+  "..\\components\\Video12.js -> react-modal-video": {
+    "id": 1239,
+    "files": [
+      "static/chunks/129-17d4765179a64ff49f90.js",
+      "static/chunks/1239.cd1931d93744a1d0e153.js"
+    ]
+  },
+  "..\\components\\Video3.js -> react-modal-video": {
+    "id": 1239,
+    "files": [
+      "static/chunks/129-17d4765179a64ff49f90.js",
+      "static/chunks/1239.cd1931d93744a1d0e153.js"
+    ]
+  },
+  "..\\components\\Video4.js -> react-modal-video": {
+    "id": 1239,
+    "files": [
+      "static/chunks/129-17d4765179a64ff49f90.js",
+      "static/chunks/1239.cd1931d93744a1d0e153.js"
+    ]
+  },
+  "..\\components\\Video5.js -> react-modal-video": {
+    "id": 1239,
+    "files": [
+      "static/chunks/129-17d4765179a64ff49f90.js",
+      "static/chunks/1239.cd1931d93744a1d0e153.js"
+    ]
+  },
+  "..\\components\\Video6.js -> react-modal-video": {
+    "id": 1239,
+    "files": [
+      "static/chunks/129-17d4765179a64ff49f90.js",
+      "static/chunks/1239.cd1931d93744a1d0e153.js"
+    ]
+  },
+  "..\\components\\Video7.js -> react-modal-video": {
+    "id": 1239,
+    "files": [
+      "static/chunks/129-17d4765179a64ff49f90.js",
+      "static/chunks/1239.cd1931d93744a1d0e153.js"
+    ]
+  },
+  "..\\components\\Video8.js -> react-modal-video": {
+    "id": 1239,
+    "files": [
+      "static/chunks/129-17d4765179a64ff49f90.js",
+      "static/chunks/1239.cd1931d93744a1d0e153.js"
+    ]
+  },
+  "..\\components\\Video9.js -> react-modal-video": {
+    "id": 1239,
+    "files": [
+      "static/chunks/129-17d4765179a64ff49f90.js",
+      "static/chunks/1239.cd1931d93744a1d0e153.js"
+    ]
+  },
+  "..\\components\\YogaTraining\\FeedbackSlider.js -> react-owl-carousel3": {
+    "id": 8694,
+    "files": [
+      "static/chunks/617777a1.ee24fdb7eeafeb4cda5d.js"
+    ]
+  },
+  "..\\components\\YogaTraining\\JoinOurYogaTraining.js -> react-modal-video": {
+    "id": 1239,
+    "files": [
+      "static/chunks/129-17d4765179a64ff49f90.js",
+      "static/chunks/1239.cd1931d93744a1d0e153.js"
+    ]
+  },
+  "..\\components\\YogaTraining\\Partner.js -> react-owl-carousel3": {
+    "id": 8694,
+    "files": [
+      "static/chunks/617777a1.ee24fdb7eeafeb4cda5d.js"
+    ]
+  },
+  "..\\components\\eLearningSchool\\FeedbackSliderWithFunFacts.js -> react-owl-carousel3": {
+    "id": 8694,
+    "files": [
+      "static/chunks/617777a1.ee24fdb7eeafeb4cda5d.js"
+    ]
+  },
+  "..\\components\\eLearningSchool\\IntoVideo.js -> react-modal-video": {
+    "id": 1239,
+    "files": [
+      "static/chunks/129-17d4765179a64ff49f90.js",
+      "static/chunks/1239.cd1931d93744a1d0e153.js"
+    ]
+  },
+  "..\\components\\eLearningSchool\\Partner.js -> react-owl-carousel3": {
+    "id": 8694,
+    "files": [
+      "static/chunks/617777a1.ee24fdb7eeafeb4cda5d.js"
+    ]
+  },
+  "..\\components\\video1.js -> react-modal-video": {
+    "id": 1239,
+    "files": [
+      "static/chunks/129-17d4765179a64ff49f90.js",
+      "static/chunks/1239.cd1931d93744a1d0e153.js"
+    ]
+  },
+  "..\\components\\video2.js -> react-modal-video": {
+    "id": 1239,
+    "files": [
+      "static/chunks/129-17d4765179a64ff49f90.js",
+      "static/chunks/1239.cd1931d93744a1d0e153.js"
+    ]
+  },
+  "single-blog-3.js -> react-owl-carousel3": {
+    "id": 8694,
+    "files": [
+      "static/chunks/617777a1.ee24fdb7eeafeb4cda5d.js"
     ]
   }
 }
