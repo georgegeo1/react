@@ -12,12 +12,6 @@ module.exports = withPWA({
 		includePaths: [path.join(__dirname, "styles")],
 	},
 
-	
-	// Target must be experimental-serverless-trace
-	// Your build time will be longer with this option
-	target: "experimental-serverless-trace",
-	 
-
 	env: {
 		JWT_SECRET: "bjdggfuqgkjsnjbcjhadybd",
 		SENDGRID_KEY: "SG.........",
@@ -27,3 +21,7 @@ module.exports = withPWA({
 		STRIPE_PUBLISHABLE_KEY: "pk_test_51JNGIpDjTbVyjR6CjYLmsTeXnjWzppSy9ycXLtU4opZvstelghQcQfunkp6af4icgmkzWyo5B1kQakhnjCpqDBIA003xWWjU6C",
 	},
 });
+
+module.exports = {
+  target: "serverless"
+};
